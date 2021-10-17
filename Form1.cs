@@ -130,7 +130,7 @@ namespace PinkNotes
         private void sourceCodeToolStripMenuItem_Click(object sender, EventArgs e)
         {
             //Open the Source Code Page
-            Process.Start("http://www.google.com/");
+            Process.Start("https://github.com/Noodle-Dev/Pink-Notes");
         }
 
         private void creatorToolStripMenuItem_Click(object sender, EventArgs e)
