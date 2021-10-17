@@ -1,0 +1,10 @@
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\bin\Debug\PinkNotes.exe.config
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\bin\Debug\PinkNotes.exe
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\bin\Debug\PinkNotes.pdb
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\obj\Debug\PinkNotes.csproj.AssemblyReference.cache
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\obj\Debug\PinkNotes.Form1.resources
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\obj\Debug\PinkNotes.Properties.Resources.resources
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\obj\Debug\PinkNotes.csproj.GenerateResource.cache
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\obj\Debug\PinkNotes.csproj.CoreCompileInputs.cache
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\obj\Debug\PinkNotes.exe
+C:\Users\em30a\Documents\Programming\C#\PinkNotes\obj\Debug\PinkNotes.pdb
